@@ -1,0 +1,13 @@
+node_modules
+/data/
+.env
+.env*.local
+*.vault-key
+.session-key
+web/dist
+web/node_modules
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+.playwright-mcp/
