@@ -92,7 +92,7 @@ body {
   font-feature-settings: "cv05", "ss01";
 }
 a { color: inherit; text-decoration: none; }
-button { font-family: inherit; cursor: pointer; }
+button { font-family: inherit; cursor: pointer; color: inherit; }
 ::selection { background: var(--accent-soft); }
 
 /* tabular money — the terminal's signature voice */
